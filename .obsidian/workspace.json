@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "5b871ebd9b46852c",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ae1d42b6198257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23132100fe39ed36",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7618fd8759d8fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "82263b96f28fc51b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42aae8ce7b04ad64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a3b3789c6cf18c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9fdcab918f88d507",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "3662684f1f121b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 4 - Programming/4.A Assignments/4.A.1/4.A.1.N Notes/4.A.1.N Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.A.1.N Software"
+            }
+          },
+          {
+            "id": "e09502387a0462d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1 - IT systems/Boxes task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boxes task"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bc468101b01cd219",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f035b7893f2181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ed82febcbc266f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Testing"
+            }
+          },
+          {
+            "id": "0f5d3aaff97c96ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Testing"
+            }
+          },
+          {
+            "id": "5c26da82e9cef1bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "477aa9faa879928a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit 4 - Programming/Assignments/1/Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          },
+          {
+            "id": "2a9dd26a3f5ff009",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "system3-relay:Relay": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fit:Fit Sync": false,
+      "obsidian-kanban:Create new board": false,
+      "simple-dice-roller:Simulate all dice": false,
+      "rpg-manager:RPG Manager": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "23132100fe39ed36",
+  "lastOpenFiles": [
+    "README.md",
+    "Unit 8 - Game Development/Untitled.md",
+    "Unit 9 - Project Management/Project Management Methodologies.md",
+    "Unit 17 - 2D + 3D graphics/Legal Requirements.md",
+    "Unit 17 - 2D + 3D graphics/Purpose of graphics.md",
+    "Unit 8 - Game Development/Godot 4.4.1 Quick Reference Guide.md",
+    "Unit 17 - 2D + 3D graphics/3D.md",
+    "Unit 14 - IT Service Delivery/IT diagrams - Jamie.md",
+    "Assets/Pasted image 20250923120023.png",
+    "Assets/Pasted image 20250923115910.png",
+    "Assets/Pasted image 20250923115841.png",
+    "Assets/Pasted image 20250923114236.png",
+    "Assets/Pasted image 20250923114054.png",
+    "Assets/Pasted image 20250923112313.png",
+    "Assets/Pasted image 20250923112221.png",
+    "Assets/Pasted image 20250923110557.png",
+    "Assets/Pasted image 20250923110541.png",
+    "Assets/Pasted image 20250923110525.png",
+    "Assets",
+    "Unit 8 - Game Development/Social Trends in Computer Gaming.md",
+    "Year 1/Untitled.md",
+    "Unit 11 - Cyber Security/Impacts of a cyber threat.md",
+    "Unit 11 - Cyber Security/External Threats.md",
+    "Unit 14 - IT Service Delivery/Project Management Methodologies.md",
+    "Unit 14 - IT Service Delivery/Purpose and function of organisations.md",
+    "Unit 11 - Cyber Security/Internal threats.md",
+    "Unit 9 - Project Management/Intro.md",
+    "Unit 14 - IT Service Delivery/Jamie half.md",
+    "Year 1",
+    "Unit 8 - Game Development",
+    "Unit 6 - Web Development/Introduction.md",
+    "Unit 14 - IT Service Delivery/Intro.md",
+    "Year 1/Unit 2 - Managing Information/U2 Evaluation.md",
+    "Unit 6 - Web Development",
+    "Year 1/Unit 5 - Data Modelling/U5 A2.md",
+    "Unit 9 - Project Management",
+    "Unit 17 - 2D + 3D graphics",
+    "Unit 14 - IT Service Delivery",
+    "Misc/Writing - Echoes of Resonance/General Notes.md",
+    "Unit 11 - Cyber Security/introduction.md",
+    "Unit 11 - Cyber Security",
+    "Misc/Writing - Echoes of Resonance/Character Notes.md",
+    "Year 1/Unit 4 - Programming/4.A Assignments/4.A.2/Unit 4 A2 Notes.md",
+    "Year 1/Unit 3 - Social Media in Business/3.A Assignments/3.A.2/3.A.2 Justification.md",
+    "Misc/Writing - Echoes of Resonance",
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.F Aim F"
+  ]
+}

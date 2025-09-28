@@ -1,0 +1,8 @@
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Assets",
+  "attachmentFolderPath": "Assets"
+}

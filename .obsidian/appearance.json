@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#068e65",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "Bolder bold"
+  ]
+}

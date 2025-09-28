@@ -1,0 +1,174 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Misc/Testing.md": {
+      "icon": "lucide-hammer"
+    },
+    "Unit 11 - Cyber Security": {
+      "color": "green",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Unit 14 - IT Service Delivery": {
+      "color": "blue",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Unit 17 - 2D + 3D graphics": {
+      "color": "purple",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Unit 6 - Web Development": {
+      "color": "red",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Unit 8 - Game Development": {
+      "color": "orange",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Unit 9 - Project Management": {
+      "color": "yellow",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 1 - IT systems": {
+      "icon": "remix-ComputerLine",
+      "color": "red",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes": {
+      "icon": "lucide-notebook-tabs",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ],
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N Brief.md": {
+      "icon": "lucide-briefcase-business",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.1 Function + Use of Digital Devices/1.N.1 Digital Devices.md": {
+      "icon": "remix-ComputerLine",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.1 Function + Use of Digital Devices/1.N.2 Device Functions and Uses.md": {
+      "icon": "lucide-laptop",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.2 Peripheral Devices + Media/1.N.3 Peripheral Devices.md": {
+      "icon": "lucide-mouse",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.2 Peripheral Devices + Media/1.N.4.1 Data Processing.md": {
+      "icon": "lucide-database",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.2 Peripheral Devices + Media/1.N.4.2 Accessibility Devices.md": {
+      "icon": "lucide-accessibility",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.2 Peripheral Devices + Media/1.N.6.2 File Types.md": {
+      "icon": "lucide-file",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.3 Computer Software in an IT System/1.N.5.1 Utility Software.md": {
+      "icon": "lucide-utility-pole",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.3 Computer Software in an IT System/1.N.5.2 User Interfaces.md": {
+      "icon": "lucide-user",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.3 Computer Software in an IT System/1.N.6.1 Application Software.md": {
+      "icon": "lucide-app-window",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.4 Emerging Technologies/1.N.9 Emerging Technologies.md": {
+      "icon": "lucide-brain-cog",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.5 Choosing IT Systems/1.N.7 Choosing an IT System.md": {
+      "icon": "remix-SmartphoneLine",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.A Aim A/1.N.A.5 Choosing IT Systems/1.N.8 Features of an IT System.md": {
+      "icon": "remix-ShareLine",
+      "color": "red"
+    },
+    "Year 1/Unit 1 - IT systems/1.N Notes/1.N.B Aim B/Connectivity/1.N.A Connectivity.md": {
+      "icon": "lucide-bluetooth-connected",
+      "color": "red"
+    },
+    "Year 1/Unit 12 - IT Technical Support": {
+      "icon": "lucide-user-cog-2",
+      "color": "purple",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 2 - Managing Information": {
+      "icon": "lucide-database",
+      "color": "orange",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 3 - Social Media in Business": {
+      "icon": "remix-InstagramLine",
+      "color": "yellow",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 4 - Programming": {
+      "icon": "lucide-code-xml",
+      "color": "green",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    },
+    "Year 1/Unit 4 - Programming/4.A Assignments/4.A.1/4.A.1.N Notes/4.A.1.N Brief.md": {
+      "icon": "lucide-briefcase-business"
+    },
+    "Year 1/Unit 4 - Programming/4.A Assignments/4.A.1/4.A.1.N Notes/4.A.1.N General.md": {
+      "icon": "lucide-notebook-tabs"
+    },
+    "Year 1/Unit 5 - Data Modelling": {
+      "icon": "lucide-file-spreadsheet",
+      "color": "cyan",
+      "unsynced": [
+        "8f1b77189fecf7da"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {}
+}
