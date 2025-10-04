@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Misc Notes"
             }
+          },
+          {
+            "id": "fe3eaf1d4c8dee0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Echoes of Resonance/Map system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Map system"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,16 +217,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fit:Fit Sync": false,
       "obsidian-kanban:Create new board": false,
       "simple-dice-roller:Simulate all dice": false,
       "rpg-manager:RPG Manager": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "23132100fe39ed36",
+  "active": "fe3eaf1d4c8dee0e",
   "lastOpenFiles": [
+    "Echoes of Resonance/Misc Notes.md",
+    "Echoes of Resonance/Map system.md",
     "README.md",
     "Unit 8 - Game Development/Untitled.md",
     "Unit 9 - Project Management/Project Management Methodologies.md",
@@ -254,8 +269,6 @@
     "Unit 11 - Cyber Security/introduction.md",
     "Unit 11 - Cyber Security",
     "Misc/Writing - Echoes of Resonance/Character Notes.md",
-    "Year 1/Unit 4 - Programming/4.A Assignments/4.A.2/Unit 4 A2 Notes.md",
-    "Year 1/Unit 3 - Social Media in Business/3.A Assignments/3.A.2/3.A.2 Justification.md",
     "Misc/Writing - Echoes of Resonance",
     "Year 1/Unit 1 - IT systems/1.N Notes/1.N.F Aim F"
   ]
