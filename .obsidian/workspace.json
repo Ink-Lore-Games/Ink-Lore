@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brands of Oblivion/Main Character.md",
+                "file": "Brands of Oblivion/Map system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Character"
+              "title": "Map system"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "2c6de6c6bdcb4cad",
   "lastOpenFiles": [
-    "Brands of Oblivion/Enemies.md",
     "Brands of Oblivion/Main Character.md",
+    "Brands of Oblivion/Enemies.md",
     "Brands of Oblivion/Map system.md",
     "Overall/Resonance 101.md",
     "Overall",
